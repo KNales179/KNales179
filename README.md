@@ -36,6 +36,16 @@ Centralizes driver, unit, franchise, and violation records for TODA operations.
 
 ---
 
+## Also Planned
+
+**FiCo** — Personal & shared finance tracker with offline-first sync.
+
+**BEYA** — AI-assisted academic tool for teachers to track student progress.
+
+**CORA** — Personal & collaborative task manager, offline-first.
+
+---
+
 ## Featured Projects
 
 <table>
@@ -128,6 +138,8 @@ Status: Completed<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-4285F4?style=flat-square)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-6E56CF?style=flat-square)
 
 **Other**
 
@@ -142,6 +154,7 @@ Status: Completed<br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
