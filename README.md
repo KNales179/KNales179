@@ -178,6 +178,11 @@ Status: Completed<br>
   </picture>
 </p>
 
+
+<p align="center">
+  <img src="https://YOUR-OWN-DEPLOYMENT.vercel.app/graph?username=KNales179&theme=react-dark&hide_border=true&bg_color=00000000&color=A855F7&line=A855F7&point=f8f7fb" width="100%" />
+</p>
+
 ---
 
 <p align="center"><sub>See the <code>Currently Building</code> section above for active work.</sub></p>
