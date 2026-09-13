@@ -2,7 +2,7 @@
 <h3 align="center">Mobile & Web Developer — Building systems that solve actual problems.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Local-first+apps+%7C+Full-stack+systems;React+%2B+React+Native+%2B+Node.js;Currently+building+FareCheck+Lucena+%26+TIRS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Local-first+apps+%7C+Full-stack+systems;React+%2B+React+Native+%2B+Node.js;Currently+building+FiCo%2C+CORA+%26+BEYA" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,23 +26,17 @@ I'm a mobile and web developer who likes building practical systems, not just in
 
 ## Currently Building
 
-**FareCheck Lucena** — Local-first tricycle fare estimation system<br>
-<code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>MapLibre</code> <code>GraphHopper</code> <code>MongoDB</code><br>
-Offline-first functionality so fare estimates work without a live connection.
+**FiCo** — Personal & shared finance management application<br>
+Track income, expenses, and planned purchases — solo or shared — with offline-first sync.
 
-**TIRS** — TFRO Tricycle Integrated Records System<br>
-<code>React</code> <code>Vite</code> <code>Bootstrap</code> <code>Express</code> <code>MongoDB</code> <code>Cloudinary</code><br>
-Centralizes driver, unit, franchise, and violation records for TODA operations.
+**CORA** — Personal & collaborative work management application<br>
+Organize tasks and track progress with full offline-first support, syncing when back online.
 
----
+**BEYA** — AI-powered teacher academic assistance application<br>
+Helps teachers manage grading, records, and student progress, with AI-assisted insights.
 
-## Also Planned
-
-**FiCo** — Personal & shared finance tracker with offline-first sync.
-
-**BEYA** — AI-assisted academic tool for teachers to track student progress.
-
-**CORA** — Personal & collaborative task manager, offline-first.
+**Celestial Companions** — Memorial companion application for pets<br>
+Turns a pet's photos or videos into an interactive companion that reacts to touch and responds with familiar sounds.
 
 ---
 
