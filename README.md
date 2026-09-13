@@ -180,7 +180,8 @@ Status: Completed<br>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-nine.vercel.app/graph?username=KNales179&theme=react-dark&hide_border=true&bg_color=00000000&color=A855F7&line=A855F7&point=f8f7fb" width="100%" />
+  <img src="h[ttps://github-readme-activity-graph-nine.vercel.app/graph?username=KNales179&theme=react-dark&hide_border=true&bg_color=00000000&color=A855F7&line=A855F7&point=f8f7fb](https://github-readme-activity-graph-nine.vercel.app/graph?username=KNales179&theme=react-dark&hide_border=true&bg_color=00000000&color=A855F7&line=A855F7&point=f8f7fb&v=2
+)" width="100%" />
 </p>
 
 ---
