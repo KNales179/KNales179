@@ -2,7 +2,7 @@
 <h3 align="center">Mobile & Web Developer — Building systems that solve actual problems.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Local-first+apps+%7C+Full-stack+systems;React+%2B+React+Native+%2B+Node.js;Currently+building+FiCo%2C+CORA+%26+BEYA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Local-first+apps+%7C+Full-stack+systems;React+%2B+React+Native+%2B+Node.js;Currently+building+CORA%2C+BEYA%2C+Celestial+Companions+%26+Resolve+UK" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,9 +26,6 @@ I'm a mobile and web developer who likes building practical systems, not just in
 
 ## Currently Building
 
-**FiCo** — Personal & shared finance management application<br>
-Track income, expenses, and planned purchases — solo or shared — with offline-first sync.
-
 **CORA** — Personal & collaborative work management application<br>
 Organize tasks and track progress with full offline-first support, syncing when back online.
 
@@ -37,6 +34,9 @@ Helps teachers manage grading, records, and student progress, with AI-assisted i
 
 **Celestial Companions** — Memorial companion application for pets<br>
 Turns a pet's photos or videos into an interactive companion that reacts to touch and responds with familiar sounds.
+
+**Resolve UK** — Citizen environmental-reporting PWA for the UK<br>
+Turns a photo, a short description, and a pinned location into a trackable report — letting citizens flag issues like fly-tipping and potholes, then follow their status until they're resolved.
 
 ---
 
@@ -96,6 +96,19 @@ Status: Completed<br>
 </td>
 
 </tr>
+<tr>
+
+<td width="100%" colspan="2" valign="top">
+
+<strong>FiCo</strong><br>
+Local-first personal finance app for solo and shared household budgeting. Also a PWA.<br>
+<code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>IndexedDB</code> · <code>Express</code> · <code>MongoDB</code><br>
+Status: Completed<br>
+<a href="https://github.com/KNales179/FiCo">Repo</a> · <a href="https://fi-co-tau.vercel.app/">App</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
@@ -130,6 +143,7 @@ Status: Completed<br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-4285F4?style=flat-square)
