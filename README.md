@@ -2,7 +2,7 @@
 <h3 align="center">Mobile & Web Developer — Building systems that solve actual problems.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Local-first+apps+%7C+Full-stack+systems;React+%2B+React+Native+%2B+Node.js;Currently+building+CORA%2C+BEYA%2C+Celestial+Companions+%26+Resolve+UK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Local-first+apps+%7C+Full-stack+systems;React+%2B+React+Native+%2B+Node.js;Currently+building+CORA%2C+BEYA%2C+Cel+Comp+%26+Resolve+UK" alt="Typing SVG" />
 </p>
 
 <p align="center">
